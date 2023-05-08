@@ -27,17 +27,18 @@ Data Collection, Clean-up, and Exploration
 
 
 Approach
-
-•	Model Selection:
-•	Neural Networks: Explored the use of artificial neural networks.
-•	K-Nearest Neighbours (KNN): Utilized the KNN algorithm.
-•	Random Forest Classifier: Recommended model due to its high Training Data Accuracy (99.09%) and Test Data Accuracy (89.38%).
-•	Model Training and Evaluation:
-•	Split dataset into training and testing sets.
-•	Train each model using the training data.
-•	Evaluate model performance using accuracy metrics.
-•	Random Forest Classifier outperformed other models.
-•	Feature selection was attempted but resulted in lower prediction scores.
+ 
+•          Model Selection:
+•          Neural Networks: Explored the use of artificial neural networks.
+•          K-Nearest Neighbours (KNN): Utilized the KNN algorithm.
+•          Random Forest Classifier
+ 
+•          Model Training and Evaluation:
+•          Split dataset into training and testing sets.
+•          Train each model using the training data.
+•          Evaluate model performance using accuracy metrics.
+•          Recommended model: Random Forest Classifier outperformed other models due to its high Training Data Accuracy (99.09%) and Test Data Accuracy (89.38%).
+•          Feature selection was attempted but resulted in lower prediction scores.
 
 
 Demo
